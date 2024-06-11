@@ -11,6 +11,11 @@ Head View:
 
 https://github.com/rhea-mal/humanoid-motion-mapping/assets/70975260/262560c0-7174-461a-b65c-12ee78ff18a6
 
+Optitrack Human Interface:
+
+
+https://github.com/rhea-mal/humanoid-motion-mapping/assets/70975260/1925377f-73c9-4a0b-8065-bd5551e37ef4
+
 
 
 ### Prerequisites
