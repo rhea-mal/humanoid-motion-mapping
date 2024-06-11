@@ -3,8 +3,10 @@
 ## Project Description
 This project integrates Optitrack with OpenSAI to simulate a game of volleyball between two robots: the humanoid robot Toro and the Panda robot arm on a mobile base. The user controls Toro using Optitrack, and the Panda arm returns the ball. The game ends when the ball hits the ground. The camera can switch between a global view and Toro's first-person view, allowing for future VR capabilities.
 
-## Installation and Setup
-[Uploading Screen Recording 2024-06-11 at 2.30.37 PM.zip…]()
+
+
+https://github.com/rhea-mal/humanoid-motion-mapping/assets/70975260/053d9652-13e5-4a23-be82-add905a8c41f
+
 
 
 ### Prerequisites
